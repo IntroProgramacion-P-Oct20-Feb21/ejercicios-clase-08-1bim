@@ -1,1 +1,3 @@
-# ejercicios-clase-08-1bim
+# Ejercicios de repaso
+### Clase 08 
+#### Primer Bimestre
